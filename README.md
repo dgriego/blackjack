@@ -1,2 +1,2 @@
-# blackjack
+# Blackjack
 Procedural Blackjack game using Ruby
